@@ -8,8 +8,8 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Dongyx1128&show_icons=true&hide_title=false&locale=en&theme=buefy&count_private=true&include_all_commits=true" alt="Dongyx1128" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyx1128&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=buefy" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Dongyx1128&show_icons=true&hide_title=false&locale=en&theme=buefy&count_private=true&include_all_commits=true" alt="Dongyx1128" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyx1128&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=buefy" />
 </div>
 
 <div align="center"> <img height="320px" src="https://activity-graph.herokuapp.com/graph?username=Dongyx1128&theme=xcode" /> </div>
