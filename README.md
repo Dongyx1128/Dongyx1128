@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dongyx1128&label=Profile%20views&color=0e75b6&style=flat" alt="Dongyx1128" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Dongyx1128.profile" alt="Dongyx1128" /></p>
 
 ## Who Am I ?
-&emsp;&emsp;I’m currently learning **computer science and Technology** in University. Currently in the second year of master's degree, preparing to study for doctoral degree. My blog is https://dyx1128.xyz/.
+&emsp;&emsp;I’m currently learning **computer science and Technology** in University. Currently in the second year of master's degree, preparing to study for doctoral degree. My blog is https://10181128.xyz/.
 
 ## About Github
 
