@@ -2,20 +2,26 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dongyx1128&label=Profile%20views&color=0e75b6&style=flat" alt="Dongyx1128" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Dongyx1128.profile" alt="Dongyx1128" /></p>
 
 ## Who Am I ?
+
 &emsp;&emsp;I’m currently learning **computer science and Technology** in University. Currently in the second year of master's degree, preparing to study for doctoral degree. My blog is https://10181128.xyz/.
 
 ## About Github
 
 <!-- GitHub数据统计 -->
+
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Dongyx1128&show_icons=true&hide_title=false&locale=en&theme=buefy&count_private=true&include_all_commits=true" alt="Dongyx1128" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyx1128&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=buefy" />
 </div>
 
-<div align="center"> <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Dongyx1128&theme=minimal" /> </div>
+<div align="center">
+  <img height="300px" src="https://activity-graph.herokuapp.com/graph?
+username=Dongyx1128&theme=minimal" />
+</div>
 
 
 ## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Gitalk未找到相关的Issues进行评论---解决方法](https://10181128.xyz/2022/05/07/gitalk/)
 - [更换终端后博客环境重建](https://10181128.xyz/2022/05/07/%E6%9B%B4%E6%8D%A2%E7%BB%88%E7%AB%AF%E5%90%8E%E5%8D%9A%E5%AE%A2%E7%8E%AF%E5%A2%83%E9%87%8D%E5%BB%BA/)
@@ -25,6 +31,7 @@
 [![MyWebsite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://10181128.xyz/)
 
 ## How to Reach Me
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:dongyx1128@163.com)](mailto:dongyx1128@163.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dyx1128)
 
