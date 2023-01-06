@@ -17,12 +17,12 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Gitalk未找到相关的Issues进行评论---解决方法](https://dyx1128.xyz/2022/05/07/gitalk/)
-- [更换终端后博客环境重建](https://dyx1128.xyz/2022/05/07/%E6%9B%B4%E6%8D%A2%E7%BB%88%E7%AB%AF%E5%90%8E%E5%8D%9A%E5%AE%A2%E7%8E%AF%E5%A2%83%E9%87%8D%E5%BB%BA/)
-- [基于hexo+GitHub的博客搭建](https://dyx1128.xyz/2020/10/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BC%96%E8%BE%91/)
-- [阿里云盾彻底卸载，屏蔽IP不在恢复](https://dyx1128.xyz/2020/10/06/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%BE%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%B1%8F%E8%94%BDIP%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D/)
+- [Gitalk未找到相关的Issues进行评论---解决方法](https://10181128.xyz/2022/05/07/gitalk/)
+- [更换终端后博客环境重建](https://10181128.xyz/2022/05/07/%E6%9B%B4%E6%8D%A2%E7%BB%88%E7%AB%AF%E5%90%8E%E5%8D%9A%E5%AE%A2%E7%8E%AF%E5%A2%83%E9%87%8D%E5%BB%BA/)
+- [基于hexo+GitHub的博客搭建](https://10181128.xyz/2020/10/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BC%96%E8%BE%91/)
+- [阿里云盾彻底卸载，屏蔽IP不在恢复](https://10181128.xyz/2020/10/06/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%BE%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%B1%8F%E8%94%BDIP%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D/)
 <!-- BLOG-POST-LIST:END -->
-[![MyWebsite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dyx1128.xyz/)
+[![MyWebsite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://10181128.xyz/)
 
 ## How to Reach Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:dongyx1128@163.com)](mailto:dongyx1128@163.com)
