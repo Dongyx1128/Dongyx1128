@@ -15,8 +15,7 @@
 </div>
 
 <div align="center">
-  <img height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?
-username=Dongyx1128&theme=minimal" />
+  <img height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&theme=minimal" />
 </div>
 
 
