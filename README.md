@@ -18,7 +18,7 @@
   <img height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&theme=minimal" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128theme=minimal&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&theme=minimal&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
