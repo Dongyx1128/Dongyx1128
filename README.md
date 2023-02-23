@@ -14,16 +14,7 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyx1128&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=buefy" />
 </div>
 
-<div align="center">
-  <img height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&theme=minimal" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&theme=minimal&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Dongyx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&theme=minimal&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Latest Blog Posts
 
