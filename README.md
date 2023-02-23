@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img height="300px" src="https://activity-graph.herokuapp.com/graph?
+  <img height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?
 username=Dongyx1128&theme=minimal" />
 </div>
 
@@ -23,6 +23,8 @@ username=Dongyx1128&theme=minimal" />
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CNN-Enhanced GAT for HSI Super-Resolution Using Non-Local Self-Similarity (CEGATSR)](https://10181128.xyz/2022/07/22/CEGATSR/)
+- [Clash切换内核增加自建协议](https://10181128.xyz/2023/02/22/Clash%E5%88%87%E6%8D%A2%E5%86%85%E6%A0%B8%EF%BC%8C%E5%A2%9E%E5%8A%A0%E5%A4%9A%E7%A7%8D%E8%87%AA%E5%BB%BA%E5%8D%8F%E8%AE%AE/)
 - [Gitalk未找到相关的Issues进行评论---解决方法](https://10181128.xyz/2022/05/07/gitalk/)
 - [更换终端后博客环境重建](https://10181128.xyz/2022/05/07/%E6%9B%B4%E6%8D%A2%E7%BB%88%E7%AB%AF%E5%90%8E%E5%8D%9A%E5%AE%A2%E7%8E%AF%E5%A2%83%E9%87%8D%E5%BB%BA/)
 - [基于hexo+GitHub的博客搭建](https://10181128.xyz/2020/10/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BC%96%E8%BE%91/)
