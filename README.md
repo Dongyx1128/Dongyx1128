@@ -1,5 +1,5 @@
 <p align="center"> <img height="230px" src="./github-header-image.png"></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dongyx1128&label=Profile%20views&color=0e75b6&style=flat" alt="Dongyx1128" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Dongyx1128&left_text=My%20Page%20Visitors" alt="Dongyx1128" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dongyx1128&label=Profile%20Views&color=0e75b6&style=flat" alt="Dongyx1128" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Dongyx1128&left_text=My%20Page%20Visitors" alt="Dongyx1128" /></p>
 
 ## Who Am I ?
 
