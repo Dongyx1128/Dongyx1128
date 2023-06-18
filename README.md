@@ -14,7 +14,7 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyx1128&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=buefy" />
 </div>
 
-[![Dongyx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dongyx1128&theme=minimal&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dongyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dongyx1128&theme=minimal&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Latest Blog Posts
 
