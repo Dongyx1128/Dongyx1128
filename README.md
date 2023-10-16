@@ -3,7 +3,7 @@
 
 ## Who Am I ?
 
-&emsp;&emsp;I’m currently learning **computer science and Technology** in University. Currently in the second year of master's degree, preparing to study for doctoral degree. My blog is https://10181128.xyz/.
+&emsp;&emsp;I’m currently learning **computer science and Technology** in University. Currently in the first year of doctor's degree. My blog is https://10181128.xyz/.
 
 ## About Github
 
