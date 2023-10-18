@@ -1,6 +1,20 @@
 <p align="center"> <img height="230px" src="./github-header-image.png"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dongyx1128&label=Profile%20Views&color=0e75b6&style=flat" alt="Dongyx1128" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Dongyx1128&left_text=My%20Page%20Visitors" alt="Dongyx1128" /></p>
 
+
+<p align="center">
+    <a title="Github Total Stars" target="_blank" href="https://github.com/Dongyx1128">
+        <img src="https://img.shields.io/github/stars/Dongyx1128.svg?logo=star&label=Total%20Stars&color=success" />
+    </a>
+    <a title="Github Followers" target="_blank" href="https://github.com/Dongyx1128">
+        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDongyx1128&color=blue&logo=github&longCache=true" />
+    </a>
+    <a title="My Blog Site" target="_blank" href="https://Dongyx1128.github.io/">
+        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-Dongyx1128.github.io-orange" />
+    </a>
+</p>
+
+
 ## Who Am I ?
 
 &emsp;&emsp;I’m currently learning **computer science and Technology** in University. Currently in the first year of doctor's degree. My blog is https://10181128.xyz/.
