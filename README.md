@@ -18,7 +18,7 @@
 
 ## Who Am I ?
 
-&emsp;&emsp;I’m currently learning **computer science and Technology** in University. Currently in the first year of doctor's degree. My blog is https://Dongyx1128.github.io/.
+&emsp;&emsp;I’m currently learning **Computer Science and Technology** in University. Currently in the first year of doctor's degree. My blog is https://Dongyx1128.github.io/.
 
 ## About Github
 
