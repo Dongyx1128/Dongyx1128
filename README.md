@@ -1,4 +1,8 @@
-<h3 align="center">Hey 👋, I'm Yaxin Dong </h3>
+<div align="center">
+<img width="160" src="/icon.png" alt="logo">
+
+# Hey 👋, I'm Yaxin Dong
+</div>
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/Dongyx1128">
