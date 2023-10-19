@@ -1,7 +1,8 @@
 <div align="center">
-<img width="160" src="/icon.png" alt="logo">
+    <img width="160" src="/icon.png" alt="logo">
 
 # Hey 👋, I'm Yaxin Dong
+
 </div>
 
 <p align="center">
