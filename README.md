@@ -38,6 +38,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperspectral Image Super-Resolution via Joint Network with Spectral-Spatial Strategy (SRLSGAT)](https://10181128.xyz/2025/07/21/SRLSGAT/)
 - [CNN-Enhanced GAT for HSI Super-Resolution Using Non-Local Self-Similarity (CEGATSR)](https://10181128.xyz/2022/07/22/CEGATSR/)
 - [Clash切换内核增加自建协议](https://10181128.xyz/2023/02/22/Clash%E5%88%87%E6%8D%A2%E5%86%85%E6%A0%B8%EF%BC%8C%E5%A2%9E%E5%8A%A0%E5%A4%9A%E7%A7%8D%E8%87%AA%E5%BB%BA%E5%8D%8F%E8%AE%AE/)
 - [Gitalk未找到相关的Issues进行评论---解决方法](https://10181128.xyz/2022/05/07/gitalk/)
