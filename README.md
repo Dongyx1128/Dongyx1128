@@ -7,7 +7,7 @@
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/Dongyx1128">
-        <img src="https://img.shields.io/github/stars/Dongyx1128.svg?logo=star&label=Total%20Stars&color=success" />
+        <img src="https://img.shields.io/github/stars/Dongyx1128.svg?logo=star&label=Total%20Stars&color=green" />
     </a>
     <a title="Github Followers" target="_blank" href="https://github.com/Dongyx1128">
         <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDongyx1128&color=blue&logo=github&longCache=true" />
@@ -22,7 +22,7 @@
 
 ## Who Am I ?
 
-&emsp;&emsp;I’m currently learning **Computer Science and Technology** in University. Currently in the first year of doctor's degree. My blog is https://Dongyx1128.github.io/.
+&emsp;&emsp;I’m currently learning **Image Processing and Computer Vision** in Wuhan University. Currently in the second year of doctor's study. My blog is https://Dongyx1128.github.io/.
 
 ## About Github
 
