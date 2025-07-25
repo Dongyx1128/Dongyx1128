@@ -7,16 +7,16 @@
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/Dongyx1128">
-        <img src="https://img.shields.io/github/stars/Dongyx1128.svg?logo=github&label=Total%20Stars&color=green" />
+        <img src="https://img.shields.io/github/stars/Dongyx1128?style=for-the-badge&logo=github&label=Total%20Stars&color=brightgreen" />
     </a>
     <a title="Github Followers" target="_blank" href="https://github.com/Dongyx1128">
-        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDongyx1128&color=blue&logo=github&longCache=true" />
+        <img src="https://img.shields.io/github/followers/Dongyx1128?style=for-the-badge&logo=github&label=Total%20Followers&color=blue" />
     </a>
     <a title="Github Visitors" target="_blank" href="https://github.com/Dongyx1128">
-        <img src="https://komarev.com/ghpvc/?username=Dongyx1128&label=Total%20Views&color=FF6699&style=flat" />
+        <img src="https://komarev.com/ghpvc/?username=Dongyx1128&style=for-the-badge&logo=github&label=Total%20Views&color=FF6699" />
     </a>
     <a title="My Blog Site" target="_blank" href="https://Dongyx1128.github.io/">
-        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-Dongyx1128.github.io-orange" />
+        <img src="https://img.shields.io/badge/Blog-Dongyx1128.github.io-orange?style=for-the-badge&" />
     </a>
 </p>
 
