@@ -46,13 +46,13 @@
 - [基于hexo+GitHub的博客搭建](https://10181128.xyz/2020/10/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BC%96%E8%BE%91/)
 - [阿里云盾彻底卸载，屏蔽IP不在恢复](https://10181128.xyz/2020/10/06/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%BE%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%B1%8F%E8%94%BDIP%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D/)
 <!-- BLOG-POST-LIST:END -->
-[![MyWebsite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://10181128.xyz/)
+[![MyWebsite](https://img.shields.io/badge/website-6d6875?style=for-the-badge&logo=About.me&logoColor=white)](https://10181128.xyz/)
 
 ## How to Reach Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:dongyx1128@163.com)](mailto:dongyx1128@163.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyx10181128@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dyx1128)
 
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-FF9494.svg" />&emsp;<img align="center" src="https://img.shields.io/badge/Ask%20me-Anything-769FCD.svg" />
+    <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-pink?style=flat-square" />&emsp;<img align="center" src="https://img.shields.io/badge/Ask%20me-Anything-769FCD?style=flat-square" />
 </p>
