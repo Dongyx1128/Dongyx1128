@@ -22,7 +22,7 @@
 
 ## Who Am I ?
 
-&emsp;&emsp;I’m currently learning **Image Processing and Computer Vision** in Wuhan University. Currently in the second year of doctor's study. My blog is https://Dongyx1128.github.io/.
+&emsp;&emsp;I’m currently learning **Image Processing and Computer Vision** in Wuhan University. Currently in the third year of doctor's study. My blog is https://Dongyx1128.github.io/.
 
 ## About Github
 
