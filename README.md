@@ -28,17 +28,13 @@
 
 <!-- GitHub数据统计 -->
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="80%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/0-profile-details.svg" alt="Dongyx1128's GitHub contribution summary" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="40%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/3-stats.svg" alt="Dongyx1128's GitHub stats" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="40%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Dongyx1128's top languages by repository" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="330" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/3-stats.svg" alt="Dongyx1128's GitHub stats" /></a>&nbsp;<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="330" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Dongyx1128's top languages by repository" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="664" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/0-profile-details.svg" alt="Dongyx1128's GitHub contribution summary" /></a>
+</p>
 
 ## Latest Blog Posts
 
