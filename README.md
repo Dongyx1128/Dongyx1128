@@ -30,13 +30,13 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="98%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/0-profile-details.svg" alt="Dongyx1128's GitHub contribution summary" />
+    <img width="80%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/0-profile-details.svg" alt="Dongyx1128's GitHub contribution summary" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="49%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/3-stats.svg" alt="Dongyx1128's GitHub stats" />
+    <img width="40%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/3-stats.svg" alt="Dongyx1128's GitHub stats" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="49%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Dongyx1128's top languages by repository" />
+    <img width="40%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Dongyx1128's top languages by repository" />
   </a>
 </div>
 
