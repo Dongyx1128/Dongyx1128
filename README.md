@@ -29,11 +29,16 @@
 <!-- GitHub数据统计 -->
 
 <div align="center">
-  <img width="425" src="https://github-stats-extended.vercel.app/api?username=Dongyx1128&show_icons=true&hide_title=false&locale=en&theme=buefy&count_private=true&include_all_commits=true" alt="Dongyx1128" />
-  <img width="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dongyx1128&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=buefy" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="98%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/0-profile-details.svg" alt="Dongyx1128's GitHub contribution summary" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/3-stats.svg" alt="Dongyx1128's GitHub stats" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://raw.githubusercontent.com/Dongyx1128/Dongyx1128/main/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Dongyx1128's top languages by repository" />
+  </a>
 </div>
-
-[![Dongyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dongyx1128&theme=minimal&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Latest Blog Posts
 
