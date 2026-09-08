@@ -39,13 +39,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperspectral Image Super-Resolution via Joint Network with Spectral-Spatial Strategy (SRLSGAT)](https://10181128.xyz/2025/07/21/SRLSGAT/)
-- [CNN-Enhanced GAT for HSI Super-Resolution Using Non-Local Self-Similarity (CEGATSR)](https://10181128.xyz/2022/07/22/CEGATSR/)
-- [Clash切换内核增加自建协议](https://10181128.xyz/2023/02/22/Clash%E5%88%87%E6%8D%A2%E5%86%85%E6%A0%B8%EF%BC%8C%E5%A2%9E%E5%8A%A0%E5%A4%9A%E7%A7%8D%E8%87%AA%E5%BB%BA%E5%8D%8F%E8%AE%AE/)
-- [Gitalk未找到相关的Issues进行评论---解决方法](https://10181128.xyz/2022/05/07/gitalk/)
-- [更换终端后博客环境重建](https://10181128.xyz/2022/05/07/%E6%9B%B4%E6%8D%A2%E7%BB%88%E7%AB%AF%E5%90%8E%E5%8D%9A%E5%AE%A2%E7%8E%AF%E5%A2%83%E9%87%8D%E5%BB%BA/)
-- [基于hexo+GitHub的博客搭建](https://10181128.xyz/2020/10/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BC%96%E8%BE%91/)
-- [阿里云盾彻底卸载，屏蔽IP不在恢复](https://10181128.xyz/2020/10/06/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%BE%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%B1%8F%E8%94%BDIP%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D/)
+- [Hyperspectral Image Super-Resolution via Joint Network with Spectral-Spatial Strategy &lpar;SRLSGAT&rpar;](https://10181128.xyz/2025/07/21/SRLSGAT/)
+- [CNN-Enhanced GAT for HSI Super-Resolution Using Non-Local Self-Similarity &lpar;CEGATSR&rpar;](https://10181128.xyz/2022/07/22/CEGATSR/)
+- [站点与 Xray 共用 443 反向代理 —— Nginx Stream](https://10181128.xyz/2026/08/27/%E7%AB%99%E7%82%B9%E4%B8%8EXray%E5%85%B1%E7%94%A8443%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86-Nginx%20Stream/)
+- [站点与 Xray 共用 443 反向代理 —— Xray Fallback](https://10181128.xyz/2026/07/10/%E7%AB%99%E7%82%B9%E4%B8%8EXray%E5%85%B1%E7%94%A8443%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86-Xray%20Fallback/)
+- [Docker 配置 Zotero 的 DeepLX 自定义翻译源](https://10181128.xyz/2026/06/05/Docker%E9%85%8D%E7%BD%AEZotero%E7%9A%84DeepLX%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BF%BB%E8%AF%91%E6%BA%90/)
+- [常用脚本](https://10181128.xyz/2024/12/12/%E5%B8%B8%E7%94%A8%E8%84%9A%E6%9C%AC/)
 <!-- BLOG-POST-LIST:END -->
 [![MyWebsite](https://img.shields.io/badge/website-6d6875?style=for-the-badge&logo=About.me&logoColor=white)](https://Dongyx1128.github.io/)
 
