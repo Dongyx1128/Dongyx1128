@@ -21,5 +21,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://10181128.xyz/atom.xml"
-          max_post_count: 6
+          max_post_count: 8
           disable_sort: true
