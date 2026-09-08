@@ -45,6 +45,8 @@
 - [站点与 Xray 共用 443 反向代理 —— Xray Fallback](https://10181128.xyz/2026/07/10/%E7%AB%99%E7%82%B9%E4%B8%8EXray%E5%85%B1%E7%94%A8443%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86-Xray%20Fallback/)
 - [Docker 配置 Zotero 的 DeepLX 自定义翻译源](https://10181128.xyz/2026/06/05/Docker%E9%85%8D%E7%BD%AEZotero%E7%9A%84DeepLX%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BF%BB%E8%AF%91%E6%BA%90/)
 - [常用脚本](https://10181128.xyz/2024/12/12/%E5%B8%B8%E7%94%A8%E8%84%9A%E6%9C%AC/)
+- [Ubuntu 下文件的安装与卸载命令汇总](https://10181128.xyz/2024/07/11/Ubuntu%E4%B8%8B%E6%96%87%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%8D%B8%E8%BD%BD%E5%91%BD%E4%BB%A4%E6%B1%87%E6%80%BB/)
+- [Ubuntu 下文件的打包、解压缩命令汇总](https://10181128.xyz/2024/07/05/Ubuntu%E4%B8%8B%E6%96%87%E4%BB%B6%E7%9A%84%E6%89%93%E5%8C%85%E3%80%81%E8%A7%A3%E5%8E%8B%E7%BC%A9%E5%91%BD%E4%BB%A4%E6%B1%87%E6%80%BB/)
 <!-- BLOG-POST-LIST:END -->
 
 [![MyWebsite](https://img.shields.io/badge/website-6d6875?style=for-the-badge&logo=About.me&logoColor=white)](https://Dongyx1128.github.io/)
