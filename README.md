@@ -22,7 +22,7 @@
 
 ## Who Am I ?
 
-&emsp;&emsp;I’m currently a fourth-year Ph.D. student at Wuhan University, focusing on **Image Processing and Computer Vision**. My blog is https://Dongyx1128.github.io/.
+&emsp;&emsp;I’m currently a fourth-year Ph.D. student at Wuhan University, focusing on **Image Processing and Computer Vision**.
 
 ## About Github
 
